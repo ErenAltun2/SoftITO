@@ -8,17 +8,17 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
 
 | Klasör | Konu | Özet |
 |---|---|---|
-| [`VeriTabanı/14 Eylul SQL`](./VeriTabanı/14 Eylul SQL) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
-| [`VeriTabanı/15 Eylul SQL`](./VeriTabanı/15 Eylul SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
+| [`VeriTabanı/14-Eylul-SQL`](./VeriTabanı/14-Eylul-SQL) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
+| [`VeriTabanı/15-Eylul-SQL`](./VeriTabanı/15-Eylul-SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
 
 ### 🐍 Python
 
 | Klasör | Konu | Özet |
 |---|---|---|
-| [`Python/16Eylul`](./Python/16Eylul) | Python'a Giriş | `print`, yorum satırları, değişkenler, veri tipleri, operatörler, `if-else`, string işlemleri |
-| [`Python/17Eylul`](./Python/17Eylul) | Pandas'a Giriş | `Series`, `DataFrame`, CSV okuma/yazma |
-| [`Python/18Eylul`](./Python/18Eylul) | İstatistik & Keşifçi Veri Analizi (EDA) | Betimsel istatistik, güven aralığı, eksik/aykırı değer analizi, veri temizleme |
-| [`Python/21Eylul`](./Python/21Eylul) | Makine Öğrenmesi — Regresyon | `scikit-learn` ile regresyon problemleri, korelasyon analizi, train/test ayrımı |
+| [`Python/16Eylul`](./PYTHON/16Eylul) | Python'a Giriş | `print`, yorum satırları, değişkenler, veri tipleri, operatörler, `if-else`, string işlemleri |
+| [`Python/17Eylul`](./PYTHON/17Eylul) | Pandas'a Giriş | `Series`, `DataFrame`, CSV okuma/yazma |
+| [`Python/18Eylul`](./PYTHON/18Eylul) | İstatistik & Keşifçi Veri Analizi (EDA) | Betimsel istatistik, güven aralığı, eksik/aykırı değer analizi, veri temizleme |
+| [`Python/21Eylul`](./PYTHON/21Eylul) | Makine Öğrenmesi — Regresyon | `scikit-learn` ile regresyon problemleri, korelasyon analizi, train/test ayrımı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
