@@ -9,7 +9,7 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
 | Klasör | Konu | İçerik |
 |---|---|---|
 | [`VeriTabanı/14 Eylul SQL`](./VeriTaban%C4%B1/14%20Eylul%20SQL) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
-| [`VeriTabanı/15 Eylul SQL`](./VeriTaban%C4%B1/15%20Eylul%20SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
+| [`VeriTabanı/15 Eylul SQL`](./VeriTaban%C4%B1/15%20EYLUL%20SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
 ### 🐍 Python
 
 | Klasör | Konu | Özet |
