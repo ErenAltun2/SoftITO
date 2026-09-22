@@ -8,8 +8,8 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
 
 | Klasör | Konu | Özet |
 |---|---|---|
-| [`VeriTabanı/14 Eylul SQL`](./SQL/SQL-Temelleri) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
-| [`VeriTabanı/15 Eylul SQL`](./SQL/15Eylul-Ileri-SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
+| [`VeriTabanı/14 Eylul SQL`](./VeriTabanı/14 Eylul SQL) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
+| [`VeriTabanı/15 Eylul SQL`](./VeriTabanı/15 Eylul SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
 
 ### 🐍 Python
 
