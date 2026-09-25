@@ -10,6 +10,7 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
 |---|---|---|
 | [`VeriTabanı/14 Eylul SQL`](./VeriTaban%C4%B1/14%20Eylul%20SQL) | SQL'e Giriş | Tablo oluşturma, CRUD işlemleri (INSERT/SELECT/UPDATE/DELETE), `ALTER TABLE`, `LIKE`, `BETWEEN`, sıralama ve limitleme |
 | [`VeriTabanı/15 Eylul SQL`](./VeriTaban%C4%B1/15%20EYLUL%20SQL) | İleri Seviye SQL | Kısıtlar (`CHECK`, `UNIQUE`, `FOREIGN KEY`), `JOIN` türleri, `GROUP BY`/`HAVING`, alt sorgular, `CASE WHEN`, `INDEX` |
+
 ### 🐍 Python
 
 | Klasör | Konu | Özet |
@@ -18,11 +19,15 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
 | [`Python/17Eylul`](./PYTHON/17Eylul) | Pandas'a Giriş | `Series`, `DataFrame`, CSV okuma/yazma |
 | [`Python/18Eylul`](./PYTHON/18Eylul) | İstatistik & Keşifçi Veri Analizi (EDA) | Betimsel istatistik, güven aralığı, eksik/aykırı değer analizi, veri temizleme |
 | [`Python/21Eylul`](./PYTHON/21Eylul) | Makine Öğrenmesi — Regresyon | `scikit-learn` ile regresyon problemleri, korelasyon analizi, train/test ayrımı |
+| [`Python/22Eylul`](./PYTHON/22Eylul) | Doğrusal/Lojistik Regresyon, SVM, KNN | Abalone & German Credit & Wine Quality veri setleri; regresyon, ikili sınıflandırma, ölçeklendirme, `GridSearchCV`, model karşılaştırma |
+| [`Python/23Eylul`](./PYTHON/23Eylul) | Kümeleme & Ağaç Tabanlı Yöntemler | K-Means, Hiyerarşik Kümeleme, DBSCAN; Decision Tree & Random Forest (Titanic); Ensemble karşılaştırması (AdaBoost, Gradient Boosting, XGBoost) |
+| [`Python/24Eylul`](./PYTHON/24Eylul) | Derin Öğrenmeye Giriş — ANN & LSTM/GRU | Keras/PyTorch ile yapay sinir ağları, zaman serisi tahmini (LSTM/GRU), IMDB duygu analizi |
+| [`Python/25Eylul`](./PYTHON/25Eylul) | CNN ile Görüntü Sınıflandırma | CIFAR-10 üzerinde evrişimli sinir ağı (CNN), veri artırma, confusion matrix |
 
 ## 🛠️ Kullanılan Teknolojiler
 
 - **SQL:** SQLite
-- **Python:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels, scikit-learn
+- **Python:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels, scikit-learn, xgboost, lightgbm, catboost, tensorflow/keras, torch (PyTorch)
 - **Ortam:** Google Colab / Jupyter Notebook
 
 ## 📁 Genel Klasör Yapısı
@@ -36,7 +41,11 @@ Bu repository, **SOFTİTO** eğitimi kapsamında öğrendiğim konuların günl�
     ├── 16Eylul/
     ├── 17Eylul/
     ├── 18Eylul/
-    └── 21Eylul/
+    ├── 21Eylul/
+    ├── 22Eylul/
+    ├── 23Eylul/
+    ├── 24Eylul/
+    └── 25Eylul/
 ```
 
 Her klasörün kendi `README.md` dosyası, o gün işlenen konunun detaylarını ve dosya açıklamalarını içerir.
