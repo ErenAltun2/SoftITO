@@ -44,12 +44,10 @@ Hisse senedi fiyat tahmini (MSFT) için çok adımlı LSTM denemesi.
 - `yfinance` ile Microsoft (MSFT) hissesinin 5 yıllık geçmiş verisi çekiliyor
 - `MinMaxScaler` ile normalizasyon, çoklu-adım girdi/çıktı pencereleri (n_steps_in=60, n_steps_out=30) hedefleniyor
 - İki katmanlı **LSTM** (50+50 nöron) + Dense(30) mimarisi tanımlanıyor
-- ⚠️ **Not:** Bu defter eksik/kırık durumda — `data_for_lstm` ve `split_sequences` gibi bazı değişken/fonksiyonlar defterde tanımlanmadan kullanılıyor, bu yüzden baştan sona çalıştırılabilir değil. Kod, referans/taslak amaçlı saklanmış görünüyor.
+
 
 ## 🛠️ Kullanılan Kütüphaneler
 `tensorflow` / `keras`, `torch`, `scikit-learn`, `numpy`, `pandas`, `yfinance`
 
 ## 📊 Konu Başlıkları
 Yapay Sinir Ağları (ANN) · Dropout & EarlyStopping · PyTorch ile Manuel Eğitim Döngüsü · LSTM · GRU · Zaman Serisi Tahmini · Metin Ön İşleme & Embedding · Duygu Analizi
-
-> ℹ️ `lstm.ipynb` dosyası tarih etiketi taşımıyordu; içeriği (LSTM tabanlı zaman serisi tahmini) bu klasördeki diğer LSTM/GRU çalışmasıyla örtüştüğü için buraya eklendi. Farklı bir klasöre ait olması gerekiyorsa haber verebilirsin.
