@@ -1,0 +1,12 @@
+services:
+  ml-api:
+    build: .
+    image: iris-ml:1.0
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+          cpus: "1.0"
