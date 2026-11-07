@@ -30,7 +30,7 @@ SOFTİTO çalışmalarına ek olarak, yüz yüze eğitim sürecindeki not defter
 
 | Klasör | Konu | İçerik |
 |---|---|---|
-| [`13Ekim`](./13Ekim/) | Apache Hadoop | Google Colab üzerinde Hadoop lab çalışması; NameNode, DataNode, ResourceManager ve NodeManager bileşenleri |
+| [`13Ekim`](./13Ekim) | Apache Hadoop | Google Colab üzerinde Hadoop lab çalışması; NameNode, DataNode, ResourceManager ve NodeManager bileşenleri |
 | [`15Ekim`](./15Ekim/) | Metin Vektörleştirme ve Gömme Yöntemleri | TF-IDF, Word2Vec, FastText ve GloVe; seyreklik, embedding karşılaştırması ve metin sınıflandırma örnekleri |
 | [`16Ekim`](./16Ekim/) | RNN, LSTM ve GRU | Sıralı veriler ve tekrarlayan sinir ağları; PyTorch ve Keras ile uygulamalar |
 | [`20Ekim`](./20Ekim/) | Transformer Mimarisi | Transformer mimarisi ve temel bileşenleri üzerine çalışma |
