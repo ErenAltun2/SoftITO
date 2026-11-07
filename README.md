@@ -30,21 +30,21 @@ SOFTİTO çalışmalarına ek olarak, yüz yüze eğitim sürecindeki not defter
 
 | Klasör | Konu | İçerik |
 |---|---|---|
-| [`13Ekim`](./13Ekim) | Apache Hadoop | Google Colab üzerinde Hadoop lab çalışması; NameNode, DataNode, ResourceManager ve NodeManager bileşenleri |
-| [`15Ekim`](./15Ekim/) | Metin Vektörleştirme ve Gömme Yöntemleri | TF-IDF, Word2Vec, FastText ve GloVe; seyreklik, embedding karşılaştırması ve metin sınıflandırma örnekleri |
-| [`16Ekim`](./16Ekim/) | RNN, LSTM ve GRU | Sıralı veriler ve tekrarlayan sinir ağları; PyTorch ve Keras ile uygulamalar |
-| [`20Ekim`](./20Ekim/) | Transformer Mimarisi | Transformer mimarisi ve temel bileşenleri üzerine çalışma |
-| [`21Ekim`](./21Ekim/) | Mini GPT | Decoder-only Transformer mimarisi ve Mini GPT uygulamaları |
-| [`22Ekim`](./22Ekim/) | Hugging Face Transformers | Hazır Transformer modellerini ve büyük dil modellerini kullanmaya yönelik çalışmalar |
-| [`23Ekim`](./23Ekim/) | Transformer ve LLM Uygulamaları | Transformer/büyük dil modeli konularındaki uygulama ve alıştırmalar |
-| [`26Ekim`](./26Ekim/) | Model Yönlendirme ve Üretken Yapay Zekâ | Duygu ekleme/model steering denemeleri ve karakter tabanlı sohbet uygulaması |
-| [`27Ekim`](./27Ekim/) | Gelişmiş RAG Mimarisi | Retrieval-Augmented Generation (RAG) mimarisi ve uygulamaları |
-| [`30Ekim`](./30Ekim/) | Gelişmiş RAG Projesi | Belge yükleme, metadata ve gelişmiş RAG teknikleri üzerine kişisel proje çalışmaları |
-| [`02Kasım`](./02Kasım/) | LoRA ile Model Uyarlama | Qwen modeli üzerinde LoRA/PEFT yaklaşımıyla ince ayar çalışması |
-| [`03Kasım`](./03Kasım/) | Docker ile Makine Öğrenmesi | KNN ve Decision Tree sınıflandırıcıları; model/API uygulamaları ve Docker ile çalıştırma |
-| [`04Kasım`](./04Kasım/) | Büyük Dil Modellerinde Bilgi Damıtma | Qwen öğretmen ve öğrenci modelleriyle knowledge distillation çalışması |
-| [`05Kasım`](./05Kasım/) | Büyük Dil Modellerinde Bilgi Damıtma | Qwen modelleriyle bilgi damıtma uygulamasının devamı |
-| [`06Kasım`](./06Kasım/) | Görüntü İşleme ve Nesne Tespiti | Görüntü işleme, CNN, U-Net, Mask R-CNN, YOLO ve SSD çalışmaları |
+| [`13Ekim`](./YuzYuzeE%C4%9Fitim/13Ekim) | Apache Hadoop | Google Colab üzerinde Hadoop lab çalışması; NameNode, DataNode, ResourceManager ve NodeManager bileşenleri |
+| [`15Ekim`](./YuzYuzeE%C4%9Fitim/15Ekim) | Metin Vektörleştirme ve Gömme Yöntemleri | TF-IDF, Word2Vec, FastText ve GloVe; seyreklik, embedding karşılaştırması ve metin sınıflandırma örnekleri |
+| [`16Ekim`](./YuzYuzeE%C4%9Fitim/16Ekim) | RNN, LSTM ve GRU | Sıralı veriler ve tekrarlayan sinir ağları; PyTorch ve Keras ile uygulamalar |
+| [`20Ekim`](./YuzYuzeE%C4%9Fitim/20Ekim) | Transformer Mimarisi | Transformer mimarisi ve temel bileşenleri üzerine çalışma |
+| [`21Ekim`](./YuzYuzeE%C4%9Fitim/21Ekim) | Mini GPT | Decoder-only Transformer mimarisi ve Mini GPT uygulamaları |
+| [`22Ekim`](./YuzYuzeE%C4%9Fitim/22Ekim) | Hugging Face Transformers | Hazır Transformer modellerini ve büyük dil modellerini kullanmaya yönelik çalışmalar |
+| [`23Ekim`](./YuzYuzeE%C4%9Fitim/23Ekim) | Transformer ve LLM Uygulamaları | Transformer/büyük dil modeli konularındaki uygulama ve alıştırmalar |
+| [`26Ekim`](./YuzYuzeE%C4%9Fitim/26Ekim) | Model Yönlendirme ve Üretken Yapay Zekâ | Duygu ekleme/model steering denemeleri ve karakter tabanlı sohbet uygulaması |
+| [`27Ekim`](./YuzYuzeE%C4%9Fitim/27Ekim) | Gelişmiş RAG Mimarisi | Retrieval-Augmented Generation (RAG) mimarisi ve uygulamaları |
+| [`30Ekim`](./YuzYuzeE%C4%9Fitim/30Ekim) | Gelişmiş RAG Projesi | Belge yükleme, metadata ve gelişmiş RAG teknikleri üzerine kişisel proje çalışmaları |
+| [`02Kasım`](./YuzYuzeE%C4%9Fitim/02Kas%C4%B1m) | LoRA ile Model Uyarlama | Qwen modeli üzerinde LoRA/PEFT yaklaşımıyla ince ayar çalışması |
+| [`03Kasım`](./YuzYuzeE%C4%9Fitim/03Kas%C4%B1m) | Docker ile Makine Öğrenmesi | KNN ve Decision Tree sınıflandırıcıları; model/API uygulamaları ve Docker ile çalıştırma |
+| [`04Kasım`](./YuzYuzeE%C4%9Fitim/04Kas%C4%B1m) | Büyük Dil Modellerinde Bilgi Damıtma | Qwen öğretmen ve öğrenci modelleriyle knowledge distillation çalışması |
+| [`05Kasım`](./YuzYuzeE%C4%9Fitim/05Kas%C4%B1m) | Büyük Dil Modellerinde Bilgi Damıtma | Qwen modelleriyle bilgi damıtma uygulamasının devamı |
+| [`06Kasım`](./YuzYuzeE%C4%9Fitim/06Kas%C4%B1m) | Görüntü İşleme ve Nesne Tespiti | Görüntü işleme, CNN, U-Net, Mask R-CNN, YOLO ve SSD çalışmaları |
 
 ## 🛠️ Kullanılan Teknolojiler
 
