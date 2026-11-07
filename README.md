@@ -69,9 +69,13 @@ SOFTİTO çalışmalarına ek olarak, yüz yüze eğitim sürecindeki not defter
     ├── 23Eylul/
     ├── 24Eylul/
     └── 25Eylul/
+└── YuzYuzeEğitim/
+    ├── 13Ekim/
+    ├── 15Ekim/
+    └── ...
 ```
 
-Yüz yüze eğitim çalışmaları, kök dizindeki `13Ekim`–`30Ekim` ve `02Kasım`–`06Kasım` tarihli klasörlerde tutulur.
+Yüz yüze eğitim çalışmaları, kök dizindeki `YuzYuzeEğitim/` klasörü altında `13Ekim`–`30Ekim` ve `02Kasım`–`06Kasım` tarihli klasörlerde tutulur.
 
 Her klasörün kendi `README.md` dosyası, o gün işlenen konunun detaylarını ve dosya açıklamalarını içerir.
 
